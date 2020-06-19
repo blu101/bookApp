@@ -15,6 +15,7 @@ import book from "../rn-book-app/assets/book1.png";
 
 const deviceWidth = Dimensions.get("window").width;
 const imageWidth = deviceWidth / 3 + 30;
+//Data
 const books = [
   {
     name: "Object Oriented Programming Java 4th Edition",
